@@ -1,8 +1,38 @@
 
+/* Change the default background color to an off white */
 :root {
     --color-bg-default: #fffef5 !important;
 }
 
+/* Do not display anything in a toggle*/
 .notion-toggle__summary {
   display: none !important;
+}
+
+/* Do not display the notion navbar */
+.notion-navbar {
+    display: none !important;
+  }
+
+/* Change the color of the navigation bar to an orange. */
+.bg-primary {
+  background-color: #ff9412!important
+}
+
+/* Change the text in the navigation bar to a full white. */
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1)!important
+}
+
+/* All icons in the navigation bar should show up as white */
+nav .fa {
+  color: rgba(255, 255, 255, 1)!important
+}
+
+/* Automatically open the navigation bar items when you hover. */
+@media (min-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    display: block;
+    top: 95%; 
+  }
 }
