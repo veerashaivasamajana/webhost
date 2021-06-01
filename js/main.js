@@ -31,7 +31,11 @@ nav = `
           Organization
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="officers">Officers</a>
           <a class="dropdown-item" href="elected-bod">Elected BOD</a>
+          <a class="dropdown-item" href="appointed-bod">Appointed BOD</a>
+          <a class="dropdown-item" href="virc">VIRC</a>
+          <a class="dropdown-item" href="bor">Board of Regents</a>
           <a class="dropdown-item" href="resources">Resources</a>
         </div>
       </li>
