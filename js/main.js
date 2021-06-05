@@ -47,6 +47,14 @@ nav = `
          Chapters
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="alabama">Alabama</a>
+          <a class="dropdown-item" href="california-north">California North</a>
+          <a class="dropdown-item" href="california-central">California Central</a>
+          <a class="dropdown-item" href="california-south">California South</a>
+          <a class="dropdown-item" href="connecticut">Connecticut</a>
+          <a class="dropdown-item" href="chicago">Chicago</a>
+          <a class="dropdown-item" href="dallas">Dallas</a>
+          <a class="dropdown-item" href="dc-va">DC & Virginia</a>
           <a class="dropdown-item" href="md">Maryland</a>
         </div>
       </li>
