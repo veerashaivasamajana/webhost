@@ -38,6 +38,8 @@ nav = `
           <a class="dropdown-item" href="virc">VIRC</a>
           <a class="dropdown-item" href="bor">Board of Regents</a>
           <a class="dropdown-item" href="resources">Resources</a>
+          <a class="dropdown-item" href="next-gen">Next Gen</a>
+          <a class="dropdown-item" href="events">Events</a>
         </div>
       </li>
     </ul>
