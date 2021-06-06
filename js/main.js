@@ -64,7 +64,7 @@ nav = `
           <a class="dropdown-item" href="houston">Houston</a>
           <a class="dropdown-item" href="kc">Kansas City</a>
           <a class="dropdown-item" href="md">Maryland</a>
-          <a class="dropdown-item" href="ne>New England</a>
+          <a class="dropdown-item" href="ne">New England</a>
           <a class="dropdown-item" href="ny-nj">New York &  New Jersey</a>
           <a class="dropdown-item" href="nc">North Carolina</a>
           <a class="dropdown-item" href="ohio">Ohio</a>
