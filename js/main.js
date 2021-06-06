@@ -66,7 +66,6 @@ nav = `
           <a class="dropdown-item" href="md">Maryland</a>
           <a class="dropdown-item" href="ne>New England</a>
           <a class="dropdown-item" href="ny-nj">New York &  New Jersey</a>
-          <a class="dropdown-item" href="ny-nj">New York &  New Jersey</a>
           <a class="dropdown-item" href="nc">North Carolina</a>
           <a class="dropdown-item" href="ohio">Ohio</a>
           <a class="dropdown-item" href="penn-east">Pennsylvania East</a>
