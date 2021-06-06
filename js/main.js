@@ -26,6 +26,9 @@ nav = `
       <li class="nav-item">
         <a class="nav-link" href="./"> Home </a>
       </li>
+      <li class="nav-item">
+        <button class="btn btn-outline-success my-2 my-sm-0" href="convention">Convention</button>
+      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Organization
@@ -70,6 +73,7 @@ nav = `
       <li class="nav-item">
         <a class="nav-link" href="contact"> Contact </a>
       </li>
+Dallas
     </ul>
   </div>
 </nav>
