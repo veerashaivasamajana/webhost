@@ -58,7 +58,22 @@ nav = `
           <a class="dropdown-item" href="chicago">Chicago</a>
           <a class="dropdown-item" href="dallas">Dallas</a>
           <a class="dropdown-item" href="dc-va">DC & Virginia</a>
+          <a class="dropdown-item" href="detroit">Detroit</a>
+          <a class="dropdown-item" href="florida">Florida</a>
+          <a class="dropdown-item" href="georgia">Georgia</a>
+          <a class="dropdown-item" href="houston">Houston</a>
+          <a class="dropdown-item" href="kc">Kansas City</a>
           <a class="dropdown-item" href="md">Maryland</a>
+          <a class="dropdown-item" href="ne>New England</a>
+          <a class="dropdown-item" href="ny-nj">New York &  New Jersey</a>
+          <a class="dropdown-item" href="ny-nj">New York &  New Jersey</a>
+          <a class="dropdown-item" href="nc">North Carolina</a>
+          <a class="dropdown-item" href="ohio">Ohio</a>
+          <a class="dropdown-item" href="penn-east">Pennsylvania East</a>
+          <a class="dropdown-item" href="pittsburgh">Pittsburgh</a>
+          <a class="dropdown-item" href="tennessee">Tenneessee</a>
+          <a class="dropdown-item" href="toronto">Toronto</a>
+          <a class="dropdown-item" href="west-virginia">West Virginia</a>
         </div>
       </li>
       <li class="nav-item dropdown">
