@@ -81,6 +81,7 @@ nav = `
          Learn
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Sharanas</a>
           <a class="dropdown-item" href="publications">Publications</a>
           <a class="dropdown-item" href="newsletters">Newsletters</a>
         </div>
