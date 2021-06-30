@@ -17,7 +17,7 @@ nav = `
   <a class="navbar-brand" href="./"><img src="https://veerashaivasamajana.github.io/webhost/images/logo.png" width="40" height="40" class="d-inline-block align-top" alt=""></a>
   <a class="nav-link" href="https://www.facebook.com/vsna.allchapters"> <i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i> </a>
   <a class="nav-link" href="https://www.youtube.com/channel/UC5ivDhhj0pVBYBPoZhTfy4A"> <i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i> </a> 
-  <a class="nav-link" href="https://www.youtube.com/channel/UC5ivDhhj0pVBYBPoZhTfy4A"> Subscribe </a> 
+  <a class="nav-link" href="https://www.youtube.com/channel/UC5ivDhhj0pVBYBPoZhTfy4A"> <b>Subscribe</b> </a> 
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
