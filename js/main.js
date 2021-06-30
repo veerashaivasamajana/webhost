@@ -30,16 +30,16 @@ nav = `
           Convention
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/convention/committees">Committees</a>
-          <a class="dropdown-item" href="/convention/program">Program</a>
-          <a class="dropdown-item" href="/convention/competitions">competitions</a>
-          <a class="dropdown-item" href="/convention/pooje">Pooje & Yoga</a>
-          <a class="dropdown-item" href="/convention/anubhava-ghosti">Anubhava Ghosti</a>
-          <a class="dropdown-item" href="/convention/medical-forum">Medical & Health Forum</a>
-          <a class="dropdown-item" href="/convention/business-forum">Business Forum</a>
-          <a class="dropdown-item" href="/convention/sammilana">Sammilana</a>
-          <a class="dropdown-item" href="/convention/womens-forum">Women's Forum</a>
-          <a class="dropdown-item" href="/convention/arts-competition">Arts Competition</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/committees">Committees</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/program">Program</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/competitions">competitions</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/pooje">Pooje & Yoga</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/anubhava-ghosti">Anubhava Ghosti</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/medical-forum">Medical & Health Forum</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/business-forum">Business Forum</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/sammilana">Sammilana</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/womens-forum">Women's Forum</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/arts-competition">Arts Competition</a>
         </div>
       </li>
       <li class="nav-item">
