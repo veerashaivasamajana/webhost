@@ -34,8 +34,8 @@ nav = `
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://vsna.org/convention">Convention Home</a>
           <a class="dropdown-item" href="https://vsna.org/convention/committees">Committees</a>
-          <a class="dropdown-item" href="https://vsna.org/convention/program">Program</a>
-          <a class="dropdown-item" href="https://vsna.org/convention/competitions">competitions</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/program">Main Evening Programs</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/competitions">Competitions</a>
           <a class="dropdown-item" href="https://vsna.org/convention/pooje">Pooje & Yoga</a>
           <a class="dropdown-item" href="https://vsna.org/convention/anubhava-ghosti">Anubhava Ghosti</a>
           <a class="dropdown-item" href="https://vsna.org/convention/medical-forum">Medical & Health Forum</a>
