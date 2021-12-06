@@ -70,6 +70,7 @@ nav = `
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="alabama">Alabama</a>
+          <a class="dropdown-item" href="alberta">Alberta</a>
           <a class="dropdown-item" href="california-north">California North</a>
           <a class="dropdown-item" href="california-central">California Central</a>
           <a class="dropdown-item" href="california-south">California South</a>
