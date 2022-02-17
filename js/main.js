@@ -57,6 +57,7 @@ nav = `
           <a class="dropdown-item" href="elected-bod">Elected BOD</a>
           <a class="dropdown-item" href="appointed-bod">Appointed BOD</a>
           <a class="dropdown-item" href="past-presidents">Past Presidents</a>
+          <a class="dropdown-item" href="founders">Our Founders</a>
           <a class="dropdown-item" href="virc">VIRC</a>
           <a class="dropdown-item" href="bor">Board of Regents</a>
           <a class="dropdown-item" href="resources">Resources</a>
