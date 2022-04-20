@@ -50,7 +50,7 @@ nav = `
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://vsna.org/basavajayanthi"> IBJF </a>
+        <a class="nav-link" href="https://vsna.org/basavajayanthi"> IBJ </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://vsna.org/vctf"> VCTF </a>
