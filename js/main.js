@@ -36,7 +36,7 @@ nav = `
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://vsna.org/convention">Convention Home</a>
-          <a class="dropdown-item" href="https://vsna.org/convention/registration">Registration Home</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/registration">Registration</a>
           <a class="dropdown-item" href="https://vsna.org/convention/committees">Committees</a>
           <a class="dropdown-item" href="https://vsna.org/convention/program">Main Evening Programs</a>
           <a class="dropdown-item" href="https://vsna.org/convention/competitions">Competitions</a>
