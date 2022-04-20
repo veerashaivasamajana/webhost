@@ -27,12 +27,16 @@ nav = `
       <li class="nav-item">
         <a class="btn btn-danger" href="live">Live</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="./"> Home </a>
+      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Convention
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://vsna.org/convention">Convention Home</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/registration">Registration Home</a>
           <a class="dropdown-item" href="https://vsna.org/convention/committees">Committees</a>
           <a class="dropdown-item" href="https://vsna.org/convention/program">Main Evening Programs</a>
           <a class="dropdown-item" href="https://vsna.org/convention/competitions">Competitions</a>
@@ -46,7 +50,10 @@ nav = `
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./"> Home </a>
+        <a class="nav-link" href="https://vsna.org/basavajayanthi"> IBJF </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://vsna.org/vctf"> VCTF </a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
