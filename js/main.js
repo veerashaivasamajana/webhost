@@ -30,6 +30,15 @@ nav = `
       <li class="nav-item">
         <a class="nav-link" href="./"> Home </a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://vsna.org/v3"> V3 </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://vsna.org/basavajayanthi"> IBJ </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://vsna.org/vctf"> VCTF </a>
+      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Convention
@@ -48,12 +57,6 @@ nav = `
           <a class="dropdown-item" href="https://vsna.org/convention/womens-forum">Women's Forum</a>
           <a class="dropdown-item" href="https://vsna.org/convention/arts-competition">Arts Competition</a>
         </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://vsna.org/basavajayanthi"> IBJ </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://vsna.org/vctf"> VCTF </a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
