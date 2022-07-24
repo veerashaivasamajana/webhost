@@ -45,6 +45,7 @@ nav = `
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://vsna.org/convention">Convention Home</a>
+          <a class="dropdown-item" href="https://vsna.org/convention/ajnatha-sharanaru">Ajnatha Sharanaru</a>
           <a class="dropdown-item" href="https://vsna.org/convention/registration">Registration</a>
           <a class="dropdown-item" href="https://vsna.org/convention/committees">Committees</a>
           <a class="dropdown-item" href="https://vsna.org/convention/program">Main Evening Programs</a>
@@ -55,7 +56,6 @@ nav = `
           <a class="dropdown-item" href="https://vsna.org/convention/business-forum">Business Forum</a>
           <a class="dropdown-item" href="https://vsna.org/convention/sammilana">Sammilana</a>
           <a class="dropdown-item" href="https://vsna.org/convention/womens-forum">Women's Forum</a>
-          <a class="dropdown-item" href="https://vsna.org/convention/arts-competition">Arts Competition</a>
         </div>
       </li>
       <li class="nav-item dropdown">
